@@ -1,4 +1,4 @@
-package com.alvin.citi;
+package com.djy.citi;
 
 import java.util.ArrayList;
 import java.util.HashMap;
